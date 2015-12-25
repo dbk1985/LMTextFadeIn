@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "-[LMTextFadeInLayer frameUpdate:]:LMTextFadeInView.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.attributedString">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
